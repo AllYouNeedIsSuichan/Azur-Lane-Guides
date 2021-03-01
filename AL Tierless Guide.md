@@ -10,11 +10,6 @@
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (10/02/2021)
-
-- Shuffled a few Retrofit Priorities around.
-- Added HMS Penelope.
-
 <br/><br/>
 ---
 <br/><br/>
